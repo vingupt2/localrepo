@@ -1,7 +1,7 @@
 string1 = 10
 string2 = 30
 string3 = "vinay"
-string5  =  "gupta"
+string5  =  "guupta"
 print (sum([string1,string2]))
 print (len(string3))
 print (len(string5))
