@@ -2,6 +2,8 @@ string1 = 10
 string2 = 30
 string3 = "vinay"
 string5  =  "guupta"
+string6 = "kuumar"
 print (sum([string1,string2]))
 print (len(string3))
 print (len(string5))
+print (len(string6))
